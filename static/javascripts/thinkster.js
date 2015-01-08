@@ -15,6 +15,7 @@
       'thinkster.layout',
       'thinkster.posts',
       'thinkster.utils',
+      'thinkster.profiles',
     ]);
 
   angular
